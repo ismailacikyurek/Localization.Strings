@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Hello"; ObjectID = "gQ6-r5-j1I"; */
+"gQ6-r5-j1I.text" = "Merhaba";
+
+/* Class = "UIButton"; configuration.title = "Button Click"; ObjectID = "o7o-10-AXu"; */
+"o7o-10-AXu.configuration.title" = "Butona Tıkla";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "o7o-10-AXu"; */
+"o7o-10-AXu.normalTitle" = "Button_Turkce";
